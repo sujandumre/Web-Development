@@ -71,4 +71,5 @@ function resetGame() {
   gameSeq = [];
   userSeq = [];
   level = 0;
+
 }
