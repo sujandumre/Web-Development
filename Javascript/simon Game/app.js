@@ -41,7 +41,7 @@ function levelUp() {
   btnFlash(randbtn);
 }
 
-// Button clicks by user
+// Button click by users
 let allBtns = document.querySelectorAll(".btn");
 for (let btn of allBtns) {
   btn.addEventListener("click", function () {
@@ -73,3 +73,4 @@ function resetGame() {
   level = 0;
 
 }
+
