@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is my node project",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sujan Dumre",
+  "license": "ISC",
+  "type": "module"
+}
